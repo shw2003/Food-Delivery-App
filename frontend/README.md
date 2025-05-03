@@ -35,7 +35,7 @@ A full-stack **Food Delivery Web App** with role-based access for users and admi
 | React.js          | Frontend UI framework                      |
 | React Router      | Page navigation (User/Admin separation)    |
 | Context API/Redux | Global state (cart, auth, etc.)            |
-| CSS/Tailwind      | Styling                                     |
+| CSS               | Styling                                     |
 | Razorpay / Stripe | Payment integration                        |
 | Node.js + Express | (optional backend for orders & payments)   |
 | PostgreSQL / MongoDB | (optional DB for users/products/orders) |
